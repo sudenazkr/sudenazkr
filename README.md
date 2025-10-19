@@ -5,7 +5,7 @@
 
 <!-- Bio -->
 <p align="center">
-  💻 Computer Engineering Student | 🛡️ Cybersecurity Learner | Always exploring new tech
+  💻 Computer Engineering Student | 🛡️ Passionate about Cybersecurity | Always exploring new tech
 </p>
 
 ---
