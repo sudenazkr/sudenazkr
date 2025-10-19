@@ -1,8 +1,11 @@
-
-<h1 align="center">👋 Hi, I'm Sudenaz</h1>
-
+<!-- Banner -->
 <p align="center">
-  💻 Computer Engineering Student | 🛡️ Passionate about Cybersecurity  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:000000&height=180&section=header&text=Sudenaz&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20Cybersecurity%20Learner&descAlignY=55" />
+</p>
+
+<!-- Bio -->
+<p align="center">
+  💻 Computer Engineering Student | 🛡️ Cybersecurity Learner | Always exploring new tech
 </p>
 
 ---
@@ -50,4 +53,21 @@
 
 ---
 
+### 🏆 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=probot&logoColor=white"/>
+</p>
+
+---
+
+### 🔄 Currently Learning
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Learning+C%2B%2B+and+Python;Exploring+Cybersecurity;Building+Projects+and+Growing!" />
+</p>
+
+---
+
 ⭐️ *“Stay curious, keep hacking, and never stop learning.”*
+
